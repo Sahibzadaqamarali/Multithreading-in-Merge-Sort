@@ -1,1 +1,2 @@
 # Multithreading-in-Merge-Sort
+This code will sort the array using the merge sort algorithm and use multithreading to parallelize the sorting of the two subarrays. The “thread” class is used to create and manage threads in C++. The thread constructor takes a function or lambda function as an argument and creates a new thread that executes that function. The “join” function waits for the thread to finish execution.
